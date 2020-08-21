@@ -1,0 +1,32 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib=3.2.2
+  - numpy
+  - jupyter
+  - pillow
+  - pandas
+  - scipy
+  - ipywidgets
+  - palettable
+  - bqplot
+  - h5py
+  - requests
+  - traitlets
+  - geopandas
+  - contextily
+  - ipyvolume
+  - ffmpeg
+  - descartes
+  - basemap
+  - cartopy
+  - webcolors
+  - ipyleaflet
+  - wordcloud
+  - nltk
+  - xlrd
+  - libpng
+  - pip
+  - yt
+  - jupyterlab
